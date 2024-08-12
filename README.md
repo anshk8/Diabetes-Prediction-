@@ -5,3 +5,7 @@ Language: Python
 
 
 Libraries: Numpy, Pandas, scikit-learn, mathplotlib and seaborn
+
+
+diabetes.csv - Contains dataset used from Kaggle (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+Diabetes-Classification.ipynb Notebook - Contains actual code worked on
